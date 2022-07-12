@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zion-guedes a.k.a. Daniel Guedes
+- 👋 Hi, I’m @zion-guedes a.k.a. Daniel Guedes and I'm working for [Checkr](https://github.com/checkr)
 - 👀 I’m interested in learn about code like Ruby and GO
 - 🌱 I’m VEGAN
 - 📫 daniskate@gmail.com
